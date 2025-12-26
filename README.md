@@ -8,8 +8,8 @@
 
 1. Clone the repository:
 ```bash
-git clone AI-powered-cooking-recipe-assistant-built-with-LangGraph-and-google-search-agent-tool
-cd AI-powered-cooking-recipe-assistant-built-with-LangGraph-and-google-search-agent-tool
+git AI-powered-cooking-recipe-bot
+cd AI-powered-cooking-recipe-bot
 ```
 
 2. Create and activate a virtual environment:
