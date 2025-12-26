@@ -8,7 +8,7 @@
 
 1. Clone the repository:
 ```bash
-git AI-powered-cooking-recipe-bot
+git clone AI-powered-cooking-recipe-bot
 cd AI-powered-cooking-recipe-bot
 ```
 
